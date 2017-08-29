@@ -12,9 +12,9 @@ Time | Stage 1 | Stage 2 | Stage 3 | Stage 4 |
 13:00  | BREAK     | BREAK | BREAK | BREAK 
 13:20  | BREAK     | BREAK | BREAK | BREAK 
 13:20  | BREAK     | BREAK | BREAK | BREAK 
-14:00  | | | |  
-14:20  | | | |  
-14:40  | | | |  
+14:00  | SQL PANEL | | |  
+14:20  | SQL PANEL | | |  
+14:40  | SQL PANEL | | |  
 15:00  | | | |  
 15:20  | | | |  
 15:40  | | | |  
