@@ -4,9 +4,9 @@ Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse |
 -----|--------------|----------------|--------------|------------|
 10:00  | Welcome, [Session Planning](schedule.md) |  |  | 
 11:00  | Speed Networking | | |  
-11:20  | TBD  | | |  
-11:40  | TBD | | |  
-12:00  | TBD | | |  
+11:20  | Barcode scanning  | | Sketching for all|  
+11:40  | TBD | | Sketching for all |  
+12:00  | TBD | | Mobile DevOps |  
 12:20  | TBD | | |  
 12:40  | TBD | | |  
 13:00  | BREAK     | BREAK | BREAK | BREAK 
