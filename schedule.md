@@ -15,8 +15,8 @@ Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse |
 14:00  | SQL PANEL | | |  
 14:20  | SQL PANEL | | |  
 14:40  | SQL PANEL | | |  
-15:00  | TBD | | |  
-15:20  | TBD | | |  
+15:00  | Live templates (Hendrick) | | |  
+15:20  | Taking over an Android Codebase (Miriam Busch) | | |  
 15:40  | TBD | | |  
 16:00  | TBD | | |  
 16:20  | TBD | | |  
