@@ -15,8 +15,8 @@ Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse |
 14:00  | SQL PANEL | | |  
 14:20  | SQL PANEL | | |  
 14:40  | SQL PANEL | | |  
-15:00  |Realm AMA/Office hours: Ask us anything |Overlay (Eugen) | |  Sketching for all (Chiu-Li)
-15:20  | Realm AMA/Office hours: Ask us anything | Lokalise (Eugen)| |  Sketching for all (Chiu-Li)
+15:00  |Realm AMA/Office hours: Ask us anything |Overlay (Eugen) | |  Sketching for all (Chiu-Ki)
+15:20  | Realm AMA/Office hours: Ask us anything | Lokalise (Eugen)| |  Sketching for all (Chiu-Ki)
 15:40  | Live templates (Hendrick) |Single code base for Android, Web & iOS (Volker) | |  
 16:00  | Taking over an Android Codebase (Miriam Busch) | Stackoverflow live (Friedger) | |  
 16:20  | Running mobile tests in Cloud (Niko) | Learning and training Android dev (Miriam Busch)| |  
