@@ -4,11 +4,11 @@ Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse |
 -----|--------------|----------------|--------------|------------|
 10:00  | Welcome, [Session Planning](schedule.md) |  |  | 
 11:00  | Speed Networking | | |  
-11:20  | Barcode scanning  | | Sketching for all|  
-11:40  | TBD | | Sketching for all |  
-12:00  | TBD | | Mobile DevOps |  
-12:20  | TBD | | |  
-12:40  | TBD | | |  
+11:20  | Barcode scanning (Pietro Maggo)  | | Sketching for all (Chiu-Li)|  
+11:40  | Tango SDK (Christian Fzinba) | | Sketching for all (Chiu-Li)|  
+12:00  | Tango SDK (Christian Fzinba) | | Mobile DevOps (Niko Canker)|  
+12:20  | Anvil:behind the magic of reactive UI | | |  
+12:40  | Anvil:behind the magic of reactive UI | | |  
 13:00  | BREAK     | BREAK | BREAK | BREAK 
 13:20  | BREAK     | BREAK | BREAK | BREAK 
 13:20  | BREAK     | BREAK | BREAK | BREAK 
