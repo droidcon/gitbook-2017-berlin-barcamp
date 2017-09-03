@@ -3,11 +3,11 @@
 Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse | 
 -----|--------------|----------------|--------------|------------|
 10:00  | Welcome, [Session Planning](schedule.md) | Discussion about Navigation Menu Drawer  | Single code base for Android, Web & iOS (Volker) | 
-11:00  | Speed Networking | Learning and training Android dev (Miriam Busch)| |  
-11:20  | Barcode scanning (Pietro Maggo)  | Introducing changes to team (Guillermo Orellana) | |  
+11:00  | Speed Networking | | |  
+11:20  | Barcode scanning (Pietro Maggo)  | Introducing changes to team (Guillermo Orellana) | Learning and training Android dev (Miriam Busch)|  
 11:40  | Tango SDK (Christian Dziuba) | Planning your career (Guillermo Orellana)| |  
 12:00  | Tango SDK (Christian Dziuba) |Mobile DevOps (Niko Canker) | Kotlin:Should I stay or should I go (Danny)|  
-12:20  | Anvil:behind the magic of reactive UI | | |  
+12:20  | Anvil:behind the magic of reactive UI | Learning and training Android dev (Miriam Busch)| |  
 12:40  | Anvil:behind the magic of reactive UI | | |  
 13:00  | BREAK     | BREAK | BREAK | BREAK 
 13:20  | BREAK     | BREAK | BREAK | BREAK 
