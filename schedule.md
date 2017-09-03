@@ -2,8 +2,8 @@
 
 Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse | 
 -----|--------------|----------------|--------------|------------|
-10:00  | Welcome, [Session Planning](schedule.md) |   |  | 
-11:00  | Speed Networking | | |  
+10:00  | Welcome, [Session Planning](schedule.md) |  - | - | -
+11:00  | Speed Networking | - | -| - 
 11:20  | Barcode scanning (Pietro Maggi)  | Introducing changes to team (Guillermo Orellana) ||  
 11:40  | Tango SDK (Christian Dziuba) | Planning your career (Guillermo Orellana)| |  
 12:00  | Tango SDK (Christian Dziuba) |Mobile DevOps (Niko Cankar) | |  
@@ -12,9 +12,9 @@ Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse |
 13:00  | BREAK     | BREAK | BREAK | BREAK 
 13:20  | BREAK     | BREAK | BREAK | BREAK 
 13:20  | BREAK     | BREAK | BREAK | BREAK 
-14:00  | SQL PANEL | | |  
-14:20  | SQL PANEL | | |  
-14:40  | SQL PANEL | | |  
+14:00  | SQL PANEL | - | - |  
+14:20  | SQL PANEL | - | - |  
+14:40  | SQL PANEL | - | - |  
 15:00  |Realm AMA/Office hours: Ask us anything |Overlay (Eugen) | |  Sketching for all (Chiu-Ki)
 15:20  | Realm AMA/Office hours: Ask us anything | Lokalise (Eugen)| |  Sketching for all (Chiu-Ki)
 15:40  | Live templates (Hendrick) |Single code base for Android, Web & iOS (Volker) | |  
