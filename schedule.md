@@ -4,7 +4,7 @@ Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse |
 -----|--------------|----------------|--------------|------------|
 10:00  | Welcome, [Session Planning](schedule.md) |  |  | 
 11:00  | Speed Networking | | |  
-11:20  | TBD2  | | |  
+11:20  | TBD  | | |  
 11:40  | TBD | | |  
 12:00  | TBD | | |  
 12:20  | TBD | | |  
