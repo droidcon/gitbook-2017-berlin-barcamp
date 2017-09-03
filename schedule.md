@@ -2,7 +2,7 @@
 
 Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse | 
 -----|--------------|----------------|--------------|------------|
-10:00  | Welcome, [Session Planning](schedule.md) | Discussion about Navigation Menu Drawer  |  | 
+10:00  | Welcome, [Session Planning](schedule.md) |   |  | 
 11:00  | Speed Networking | | |  
 11:20  | Barcode scanning (Pietro Maggo)  | Introducing changes to team (Guillermo Orellana) ||  
 11:40  | Tango SDK (Christian Dziuba) | Planning your career (Guillermo Orellana)| |  
@@ -20,6 +20,6 @@ Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse |
 15:40  | Live templates (Hendrick) |Single code base for Android, Web & iOS (Volker) | |  
 16:00  | Taking over an Android Codebase (Miriam Busch) | Stackoverflow live (Friedger) | |  
 16:20  | Running mobile tests in Cloud (Niko) | Learning and training Android dev (Miriam Busch)| |  
-16:40  | Platform 360 degree/VR - we have a problem (Cornelia) | | |  
+16:40  | Platform 360 degree/VR - we have a problem (Cornelia) |Discussion about Navigation Menu Drawer | |  
 17:00  | Barcamp Closing & [Feedback](feedback.md)  | - | - | -
 
