@@ -11,7 +11,7 @@ Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse |
 12:40  | Anvil:behind the magic of reactive UI | Open discussion about BLE & Oreo limitations (Mohsen)| |  
 13:00  | BREAK     | BREAK | BREAK | BREAK 
 13:20  | BREAK     | BREAK | BREAK | BREAK 
-13:20  | BREAK     | BREAK | BREAK | BREAK 
+13:40  | BREAK     | BREAK | BREAK | BREAK 
 14:00  | SQL PANEL |  |  |  
 14:20  | SQL PANEL |  |  |  
 14:40  | SQL PANEL |  |  |  
