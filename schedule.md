@@ -18,7 +18,7 @@ Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse |
 15:00  |Realm AMA/Office hours: Ask us anything |Overlay (Eugen) | |  Sketching for all (Chiu-Ki)
 15:20  | Realm AMA/Office hours: Ask us anything | Lokalise (Eugen)| |  Sketching for all (Chiu-Ki)
 15:40  | Live templates (Hendrick) |Single code base for Android, Web & iOS (Volker) | 3th party libraries and permissions abuse (Philipp)|  
-16:00  | Taking over an Android Codebase (Miriam Busch) | Stackoverflow live (Friedger) | |  
+16:00  | Taking over an Android Codebase (Miriam Busch) | [Stackoverflow live (Friedger)](sessions/stackoverflow-live.md) | |  
 16:20  | Running mobile tests in Cloud (Niko) | Learning and training Android dev (Miriam Busch)| |  
 16:40  | Platform 360 degree/VR - we have a problem (Cornelia) |Discussion about Navigation Menu Drawer | |  
 17:00  | Barcamp Closing & [Feedback](feedback.md)  | - | - | -
