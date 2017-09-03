@@ -4,7 +4,7 @@ Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse |
 -----|--------------|----------------|--------------|------------|
 10:00  | Welcome, [Session Planning](schedule.md) | Discussion about Navigation Menu Drawer  | Single code base for Android, Web & iOS (Volker) | 
 11:00  | Speed Networking | | |  
-11:20  | Barcode scanning (Pietro Maggo)  | Introducing changes to team (Guillermo Orellana) | Learning and training Android dev (Miriam Busch)|  
+11:20  | Barcode scanning (Pietro Maggo)  | Introducing changes to team (Guillermo Orellana) | Learning and training Android dev (Miriam Busch)|  Open discussion about BLE & Oreo limitations (Mohsen)
 11:40  | Tango SDK (Christian Dziuba) | Planning your career (Guillermo Orellana)| Lokalise (Eugen)|  
 12:00  | Tango SDK (Christian Dziuba) |Mobile DevOps (Niko Canker) | Kotlin:Should I stay or should I go (Danny)|  Overlay (Eugen)
 12:20  | Anvil:behind the magic of reactive UI | Learning and training Android dev (Miriam Busch)| |  
