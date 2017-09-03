@@ -20,6 +20,6 @@ Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse |
 15:40  | Live templates (Hendrick) | | |  
 16:00  | Taking over an Android Codebase (Miriam Busch) | Stackoverflow live (Friedger) | |  
 16:20  | Running mobile tests in Cloud (Niko) | | |  
-16:40  | TBD | | |  
+16:40  | Platform 360 degree/VR - we have a problem (Cornelia) | | |  
 17:00  | Barcamp Closing & [Feedback](feedback.md)  | - | - | -
 
