@@ -12,9 +12,9 @@ Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse |
 13:00  | BREAK     | BREAK | BREAK | BREAK 
 13:20  | BREAK     | BREAK | BREAK | BREAK 
 13:20  | BREAK     | BREAK | BREAK | BREAK 
-14:00  | SQL PANEL | - | - |  
-14:20  | SQL PANEL | - | - |  
-14:40  | SQL PANEL | - | - |  
+14:00  | SQL PANEL |  |  |  
+14:20  | SQL PANEL |  |  |  
+14:40  | SQL PANEL |  |  |  
 15:00  |Realm AMA/Office hours: Ask us anything |Overlay (Eugen) | |  Sketching for all (Chiu-Ki)
 15:20  | Realm AMA/Office hours: Ask us anything | Lokalise (Eugen)| |  Sketching for all (Chiu-Ki)
 15:40  | Live templates (Hendrick) |Single code base for Android, Web & iOS (Volker) | |  
