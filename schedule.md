@@ -2,8 +2,8 @@
 
 Time | Stage Lamarr | Stage Lovelace | Stage Turing | Stage Zuse | 
 -----|--------------|----------------|--------------|------------|
-10:00  | Welcome, [Session Planning](schedule.md) |  - | - | -
-11:00  | Speed Networking | - | -| - 
+10:00  | Welcome, [Session Planning](schedule.md) |   |  | 
+11:00  | Speed Networking |  | |  
 11:20  | Barcode scanning (Pietro Maggi)  | Introducing changes to team (Guillermo Orellana) ||  
 11:40  | Tango SDK (Christian Dziuba) | Planning your career (Guillermo Orellana)| |  
 12:00  | Tango SDK (Christian Dziuba) |Mobile DevOps (Niko Cankar) | |  
