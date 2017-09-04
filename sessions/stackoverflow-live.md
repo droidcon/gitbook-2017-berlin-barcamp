@@ -22,7 +22,7 @@ jitpack.io
 gitman (emulating git sub module with dependency management). It is a python scrip
 
 
-1. How can I stream a video directly to to a webview in my app without displaying? (Artur)
+* How can I stream a video directly to to a webview in my app without displaying? (Artur)
 
 It is not possible due to security concerns, you have to show the camera image to the user, even it is only 1x1 (Miroslav K.)
 
