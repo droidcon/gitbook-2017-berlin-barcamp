@@ -1,5 +1,6 @@
 #Feedback Session
 
+* Dont show conference schedule at barcamp day everywhere
 * Speed networking 
 * No time for changing room
 * Too big rooms for the amount of people
