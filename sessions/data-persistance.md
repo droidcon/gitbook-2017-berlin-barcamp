@@ -1,2 +1,2 @@
-# Open Session: Data Persistance
+# Open Session: Data Persistence
 ## Vivien, Marcus
